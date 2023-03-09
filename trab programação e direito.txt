@@ -1,0 +1,13 @@
+Trabalho Programação e direito 
+
+Dados --> dados são informações, podem ser informações sobre qualquer coisa, alguem ou algo. Informações que descrevem sobre o item.
+
+Banco de dados --> local onde os dados ficam armazenados, conjuto de informações sobre o mesmo assunto, podendo armazenar diversas coisas.
+
+Memória -->  as memórias também armazenam dados, porém dados diversos. Ela armazena as informações que o computador está usando ativamente para que elas possam ser acessadas rapidamente. Quanto mais programas o sistema executar, mais memória você precisará. https://br.crucial.com/articles/about-memory/support-what-does-computer-memory-do
+
+Informação --> Informação é um conhecimento inscrito (gravado) sob a forma escrita (impressa ou numérica), oral ou audiovisual. É resultante do processamento, manipulação e organização de dados, de tal forma que represente uma modificação (quantitativa ou qualitativa) no conhecimento do sistema (humano, animal ou máquina) que a recebe.[1]
+https://pt.wikipedia.org/wiki/Informa%C3%A7%C3%A3o
+
+nuvem --> uma rede global de servidores, nao é uma entidade fisica mas uma vasta rede de servidores remotos ao redor do globo que são conectados e operam como um único ecossistema.  Esses servidores são responsáveis por armazenar e gerenciar dados, executar aplicativos e fornecer conteúdos ou serviços, como transmissão de vídeos, webmail, software de produtividade ou mídias sociais. Em vez de acessar arquivos e dados do local ou de um PC, você pode acessá-los online, de qualquer dispositivo com acesso à Internet. As informações estarão disponíveis em praticamente qualquer lugar, a qualquer hora.
+https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-the-cloud
