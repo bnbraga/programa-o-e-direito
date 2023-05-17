@@ -1,0 +1,22 @@
+ 1)
+
+A) Os data centers tem que estar de acordo com a lgpd;
+pois o Data Center do controlador é o local onde rodam
+ os sistemas nos quais são instalados e mantidos os dados,
+ é essa a estrutura que deve, prioritariamente, operar com base
+ nos preceitos da LGPD. Pois a LGPD e a garantia brasileira de proteçao 
+dos nossos dados.
+
+
+B)DWG -> AutoCad Drawing.
+SWF -> Shockwave Flash.
+DOC -> formato proprietário de texto.
+PPT -> formato proprietário de apresentação de slides.
+PDF -> é um formato de arquivo inadequado para a publicação de dados tabulares e,
+ consequentemente, de dados abertos.
+
+
+B2)  Os dados abertos são completos, primários, atualizados, acessíveis, e processáveis por máquina.
+ A identificação do interessado não é necessária ao acessá-los, são disponibilizados em formatos
+ não proprietários e são livres de licenças. Trazendo assim uma falta de fiscalizaçao do acesso
+aos dados ali explanados.

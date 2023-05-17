@@ -1,0 +1,10 @@
+sistema de arquivo- é um conjunto de estruturas lógicas, ou seja, feitas diretamente via software, que permite ao sistema operacional ter acesso e controlar os dados gravados no disco.
+
+Algoritimo-ele é uma receita que mostra passo a passo os procedimentos necessários para a realização de uma tarefa.
+
+SErvidor- ele é um ou um conjunto de computador que tem como funcao o armazenamento de dados.
+
+banco de dados-Um banco de dados é uma coleção organizada de informações - ou dados - estruturadas, normalmente armazenadas eletronicamente em um sistema de computador.
+
+zero rating- é uma prática adotada pelas operadoras de telecomunicação que oferecem uso gratuito de internet para determinados aplicativos como forma de beneficiar seus usuários. 
+
